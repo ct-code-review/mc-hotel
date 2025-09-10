@@ -1,0 +1,76 @@
+{
+  "hotels": [
+    {
+      "hotelName": "Grand Hyatt Goa",
+      "hotelDescription": "Resort in Bambolim • 3.3 km from Mangrove forest",
+      "hotelPrice": "₹17,330",
+      "hotelRating": 5,
+      "hotelTags": [
+        "Indoor pool",
+        "Gym",
+        "Trekking/hiking"
+      ],
+      "hotelImages": [
+        "cms/3347/334720/images/33e1b921_z.jpg",
+        "cms/3347/334720/images/de41b8d7_z_proc.jpg",
+        "cms/3347/334720/images/9932756c_z.jpg",
+        "cms/3347/334720/images/9484be9b_z.jpg",
+        "cms/3347/334720/images/image_334720_2beaea50-81f4-4776-892d-8ebbd181a9fa_proc.jpeg",
+        "cms/3347/334720/images/86cc9463_z_proc.jpg"
+      ]
+    },
+    {
+      "hotelName": "Radisson Blu Resort Goa Cavelossim Beach",
+      "hotelDescription": "Resort in Cavelossim • 900 m from Cavelossim Beach",
+      "hotelPrice": "₹10,126",
+      "hotelRating": 5,
+      "hotelTags": [
+        "Jacuzzi",
+        "Cycling",
+        "Bar"
+      ],
+      "hotelImages": [
+        "cms/3274/327475/images/image_327475_18192d6f-1f48-47e4-b97a-e4692de337d5.jpeg",
+        "hotel_videos_1/327475/30441_327475",
+        "cms/3274/327475/images/7d6fbac1_z.jpg",
+        "cms/3274/327475/images/f6484151_z_proc.jpg",
+        "cms/3274/327475/images/9d25f172_z.jpg",
+        "cms/3274/327475/images/Wharf_proc.jpg"
+      ]
+    },
+    {
+      "hotelName": "Novotel Goa Dona Sylvia Resort, Goa",
+      "hotelDescription": "Resort in Cavelossim • 550 m from Cavelossim Beach",
+      "hotelPrice": "₹5,990",
+      "hotelRating": 5,
+      "hotelTags": [
+        "Spa",
+        "Swimming pool",
+        "Gym"
+      ],
+      "hotelImages": [
+        "cms/4597/4597123/images/image_4597123_dafa9dc1-85fb-4101-a0f5-a013f848d53d.png",
+        "cms/4597/4597123/images/image_4597123_7ac3e300-354a-48b3-98ba-e93094087ae7.png",
+        "cms/4597/4597123/images/image_4597123_668664e3-8edd-4340-a959-96b8d8b62683.png",
+        "cms/4597/4597123/images/image_4597123_a8c76058-e715-4fec-b11b-cf3522cdcd3c.png",
+        "cms/4597/4597123/images/image_4597123_3840c13e-a965-4428-9f7e-5a92a83bb0bb.png",
+        "cms/4597/4597123/images/image_4597123_50072cab-95eb-4a7c-b164-0ef9aa7024fb.png"
+      ]
+    },
+    {
+      "hotelName": "Goa Marriott Resort & Spa",
+      "hotelDescription": "Hotel in Panaji • 3.6 km from Dona Paula Beach",
+      "hotelPrice": "₹15,130",
+      "hotelRating": 5,
+      "hotelTags": [],
+      "hotelImages": [
+        "cms/7075/707545/images/4JN4UZzrYUaTii47nEp3tw_goimc-exterior-3043_T_ybHJIC.jpg",
+        "cms/7075/707545/images/nHEC0KVUEavEtsvTCSkAg_goimc-guest-patio-6516_T_xMUVZP.jpg",
+        "cms/7075/707545/images/YpVi2K4ISkCYOwRAyEtuw_goimc-wedding-0087_T_W4oxbC.jpg",
+        "cms/7075/707545/images/GkLRawpmkEu0IKunoMjXMA_goimc-lobby-0091_T_VLWjle.jpg",
+        "cms/7075/707545/images/XueUr1r150G5DfpyhRCQg_goimc-lounge-8139_T_58fz6y.jpg",
+        "cms/7075/707545/images/mc-goimc-good-travel-with-marriott-24441_Classic-Hor_T_XuQebJ.jpg"
+      ]
+    }
+  ]
+}
