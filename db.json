@@ -71,6 +71,101 @@
         "cms/7075/707545/images/XueUr1r150G5DfpyhRCQg_goimc-lounge-8139_T_58fz6y.jpg",
         "cms/7075/707545/images/mc-goimc-good-travel-with-marriott-24441_Classic-Hor_T_XuQebJ.jpg"
       ]
+    },
+    {
+      "hotelName": "Resort Rio, Goa",
+      "hotelDescription": "Resort in Arpora • 3.3 km from Baga Beach",
+      "hotelPrice": "₹9,149",
+      "hotelRating": 5,
+      "hotelTags": [
+        "Spa",
+        "Swimming pool",
+        "Bar"
+      ],
+      "hotelImages": [
+        "cms/3074/307480/images/image_307480_c073f493-edd5-420e-bf18-b0f6690f4f8c.jpeg",
+        "cms/3074/307480/images/image_307480_d05846cf-3c0f-4aad-ba32-5d46b7b4c56c.jpeg",
+        "cms/3074/307480/images/image_307480_bc1c8d81-0262-475f-b77d-080b9ec48f56.jpeg",
+        "cms/3074/307480/images/image_307480_9af9088a-0118-4ed0-a5c4-d0701127bdd5.jpeg",
+        "cms/3074/307480/images/image_307480_d3bd3b3d-6515-45e6-ba5c-ebbdc3a5b19e.jpeg",
+        "cms/3074/307480/images/image_307480_0bd2698c-2ce1-430a-8feb-028aea37b0e7.jpeg"
+      ]
+    },
+    {
+      "hotelName": "Taj Fort Aguada Resort and Spa",
+      "hotelDescription": "Resort in Candolim • 1.1 km from Sinquerim Beach",
+      "hotelPrice": "₹8,286",
+      "hotelRating": 5,
+      "hotelTags": [
+        "Luxury spa",
+        "Culinary classes",
+        "Swimming pool"
+      ],
+      "hotelImages": [
+        "cms/4528/4528055/images/image_4528055_f49f7a52-1b24-4538-8131-c6ce689b111c.jpeg",
+        "cms/4528/4528055/images/image_4528055_c9c4b3ec-0c81-4174-ac53-2ddea9017068.jpeg",
+        "cms/4528/4528055/images/image_4528055_c44489db-a67c-4399-92d7-5b921c8b37fc.jpeg",
+        "cms/4528/4528055/images/image_4528055_6b8ebf66-0a86-40d8-97e6-a389b3f5bf53.jpeg",
+        "cms/4528/4528055/images/image_4528055_d6ba171a-58df-4a32-ae13-c8357231fbec_proc.jpeg",
+        "cms/4528/4528055/images/image_4528055_95968060-aa41-4fce-bebf-e22986beb375_proc.jpeg"
+      ]
+    },
+    {
+      "hotelName": "THE ZURI WHITE SANDS GOA RESORT & CASINO",
+      "hotelDescription": "Resort in Varca • 1000 m from Varca Beach",
+      "hotelPrice": "₹6,559",
+      "hotelRating": 5,
+      "hotelTags": [
+        "Spa",
+        "Swimming pool",
+        "Nightclub"
+      ],
+      "hotelImages": [
+        "cms/4165/41652/images/GOA_OLD_FACAD_SHOT_I9a79X.jpg",
+        "hotel_videos_1/41652/30310_41652",
+        "cms/4165/41652/images/image_41652_8e89ffbd-4c96-48c7-8e4f-c24a5061f4bb_proc.jpeg",
+        "cms/4165/41652/images/3b99bec1_z.jpg",
+        "cms/4165/41652/images/image_41652_b8d5716d-4e49-40fa-8016-981f1e1d0acc.jpeg",
+        "cms/4165/41652/images/image_41652_d1cca170-fbdb-41a7-8de4-49cdcccbc52f_proc.jpeg"
+      ]
+    },
+    {
+      "hotelName": "Holiday Inn Resort Goa, an IHG Hotel",
+      "hotelDescription": "Resort in Cavelossim • 2.5 km from Cavelossim Beach",
+      "hotelPrice": "₹6,829",
+      "hotelRating": 5,
+      "hotelTags": [
+        "Spa",
+        "Swimming pool",
+        "Bar"
+      ],
+      "hotelImages": [
+        "cms/4167/41676/images/52c154f9_z.jpg",
+        "cms/4167/41676/images/43718680_z_proc.jpg",
+        "cms/4167/41676/images/83e4821c_z_proc.jpg",
+        "cms/4167/41676/images/a86935cc_z_proc.jpg",
+        "cms/4167/41676/images/dcfc50cb_z_proc.jpg",
+        "cms/4167/41676/images/w7759h5496x0y0-faff9616_z_proc.jpg"
+      ]
+    },
+    {
+      "hotelName": "Royal Orchid Beach Resort & Spa",
+      "hotelDescription": "Hotel in Utorda • 3.2 km from Majorda Beach",
+      "hotelPrice": "₹4,635",
+      "hotelRating": 5,
+      "hotelTags": [
+        "Spa",
+        "Poolside drink & dine",
+        "Bar"
+      ],
+      "hotelImages": [
+        "cms/4273/42734/images/image_42734_1bd3ba05-e6b2-49eb-ad82-14bb051c7111_proc.jpeg",
+        "hotel_videos_1/42734/30445_42734",
+        "cms/4273/42734/images/image_42734_0bf8e09e-118a-4baa-96c5-3403c98c4ac6.jpeg",
+        "cms/4273/42734/images/image_42734_93276155-6191-46f6-ad25-e12271c56ead_proc.jpeg",
+        "cms/4273/42734/images/a51e10df_z_proc.jpg",
+        "cms/4273/42734/images/Overview_proc.jpg"
+      ]
     }
   ]
 }
